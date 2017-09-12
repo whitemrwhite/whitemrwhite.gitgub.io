@@ -1,0 +1,199 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="whitemrwhite.github.io" resolutions="1x" timestamp="1505207013787">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="43554211" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>index"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>index"/>
+    <file name="form-u1669.php" crc="3795728954" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
+    <file name="form-u2450.php" crc="72541701" ref="phone>index"/>
+    <file name="form-u2492.php" crc="479464051" ref="phone>index"/>
+    <file name="form-u1746.php" crc="3988685293" ref="phone>index"/>
+    <file name="form-u1772.php" crc="200872871" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:index"/>
+    <file name="form-u255.php" crc="3977755616" ref="index"/>
+    <file name="form-u702.php" crc="122904207" ref="index"/>
+    <file name="form-u771.php" crc="4045693804" ref="index"/>
+    <file name="form-u823.php" crc="4241771965" ref="index"/>
+    <file name="form-u862.php" crc="388572467" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="tsnab (2)-crop-u2784.jpg" crc="112446783" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0016335x221.png" crc="4148281842" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="49_ar.png" crc="4202030365" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="financeact.png" crc="3980592955" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u1680.png" crc="328998179" ref="phone>index"/>
+    <file name="u1680-r.png" crc="4008336208" ref="phone>index"/>
+    <file name="u1680-m.png" crc="4277592351" ref="phone>index"/>
+    <file name="u1680-fs.png" crc="304319815" ref="phone>index"/>
+    <file name="41_n.png" crc="4066776868" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1856-4.png" crc="4126650525" ref="phone>index"/>
+    <file name="42_n.png" crc="375495635" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1857-4.png" crc="27861928" ref="phone>index"/>
+    <file name="43_n.png" crc="4202606795" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1858-4.png" crc="4188928491" ref="phone>index"/>
+    <file name="financequotes.png" crc="3861163350" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1861-8.png" crc="3791778451" ref="phone>index"/>
+    <file name="u1860-8.png" crc="3801204448" ref="phone>index"/>
+    <file name="1.jpg" crc="450548628" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4110943707" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="127843931" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u1713.jpg" crc="5949032" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u1709.jpg" crc="346857391" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u1711.jpg" crc="3775954445" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="gt.jpg" crc="3954982898" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k-03.jpg" crc="3950638067" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-1.png" crc="4094913870" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-2.png" crc="125514942" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-3.png" crc="3853765553" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w256h2561387214964phone2.png" crc="4223768474" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-направо-104.png" crc="483237088" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="380_1-crop-u1871.png" crc="3760926172" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="83908513" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="posylki2_650x410-crop-u1875.jpg" crc="504323840" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="turbina3jpgpagespeedcexoexwwirew-crop-u1877.jpg" crc="530771130" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20161207100440-crop-u1879.jpg" crc="3973359510" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tsnab (1).png" crc="4153362540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img0016-crop-u101.png" crc="3849914360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u387-4.png" crc="3772498721" ref="index"/>
+    <file name="u391-4.png" crc="81211106" ref="index"/>
+    <file name="u394-4.png" crc="3819370556" ref="index"/>
+    <file name="u413-8.png" crc="4035426507" ref="index"/>
+    <file name="u416-8.png" crc="340417190" ref="index"/>
+    <file name="1311x207.jpg" crc="4221898114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3311x207.jpg" crc="384638836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4311x207.jpg" crc="427150398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tsena-crop-u676.jpg" crc="375515483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="380_1-crop-u1289.png" crc="3850157279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images-crop-u1299.jpg" crc="340520980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20161207100440-crop-u1329.jpg" crc="443503992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="posylki2_650x410.jpg" crc="422052285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="turbina3jpgpagespeedcexoexwwirew-crop-u1319.jpg" crc="386313500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4188136103" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4267247739" seo="true" mt="1505205186643" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="470681816" seo="true" mt="1505206949829" redirect="true"/>
+</manifest>
